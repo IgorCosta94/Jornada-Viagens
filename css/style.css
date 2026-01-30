@@ -38,9 +38,9 @@
     color: #8f0101;
 }
 
-#image-body{
-    width: 100px;
-    height: 500px;
-    background-size: cover;
-    background-position: center;
+.hero-image{
+    display:flex;
+    justify-content: center;
+    width: 100%; 
+    height: auto;
 }
